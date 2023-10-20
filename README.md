@@ -5,7 +5,7 @@
 
 Hi, I'm **Jeong** from Team 2 🙋‍♂️
 
-![mylink](https://media.licdn.com/dms/image/C5603AQFOHMOlm2DY9g/profile-displayphoto-shrink_800_800/0/1606926843238?e=1703116800&v=beta&t=qTX5_ueDzYe8FEo8c41YGvrtSagGPdUJtGK5mIwmx_o)
+![mylink](https://i1.sndcdn.com/avatars-000638932203-7921ri-t500x500.jpg)
 
 ## 🤷‍♂️ About Me
 I'm currently exploring exciting opportunities in my career journey as a **Software Engineer**. I'm passionate about coding and web development, and I'm thrilled to be a part of the RevoU community to further hone my skills.
