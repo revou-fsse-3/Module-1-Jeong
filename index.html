@@ -39,7 +39,7 @@
         <input type="text" placeholder="Version 4.1 Update">
     </div>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HJqmOO8HO6A?si=TQOYZ_izAkG00MDf" title="YouTube Genshin 4.1 Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="youtube" width="800" height="450" src="https://www.youtube.com/embed/HJqmOO8HO6A?si=TQOYZ_izAkG00MDf" title="YouTube Genshin 4.1 Trailer" frameborder="0" allow="" allowfullscreen></iframe>
 
     <h2>New Content</h2>
     <h3>New Characters</h3>
@@ -54,39 +54,30 @@
     </div>
 
     <section id="form-section">
-        <h2>Contact Us</h2>
-        <form action="#">
-          <fieldset>
-            <legend>Personal Data:</legend>
-            <div>
+      <h2>Contact Us</h2>
+      <form action="#" class="contact-form">
+          <div class="form-group">
               <label for="fullName">Full Name:</label>
-              <input id="fullName" type="text" required />
-            </div>
-
-            <div>
+              <input id="fullName" type="text" required placeholder="John Doe" />
+          </div>
+  
+          <div class="form-group">
               <label for="email">Email:</label>
-              <input id="email" type="email" required />
-            </div>
-          </fieldset>
-
-          <fieldset>
-            <legend>Additional information:</legend>
-            <div>
-              <p>Message:</p>
-              <textarea rows="3"></textarea>
-            </div>
-            <div>
-              <p>Upload your attachment here (optional):</p>
-              <input
-                type="file"
-                id="photo"
-                name="GenshinPhoto"
-                accept="image/png, image/jpeg"
-              />
-            </div>
-          </fieldset>
+              <input id="email" type="email" required placeholder="johndoe@example.com" />
+          </div>
+  
+          <div class="form-group">
+              <label for="message">Message:</label>
+              <textarea id="message" rows="4" required placeholder="Your message here"></textarea>
+          </div>
+  
+          <div class="form-group">
+              <label for="photo">Upload your attachment (optional):</label>
+              <input type="file" id="photo" name="GenshinPhoto" accept="image/png, image/jpeg" />
+          </div>
+  
           <button type="submit">Submit</button>
-        </form>
+      </form>
+  </section>  
 </body>
-
 </html>
