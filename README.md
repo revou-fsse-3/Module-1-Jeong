@@ -1,4 +1,4 @@
-# <center>Kevin Jeonghun Profile</center>
+# <center>My Profile</center>
 <center>🌟 RevoU FSSE Student - Section Seoul 🌟</center>
  
  ***
