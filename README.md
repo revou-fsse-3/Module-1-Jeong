@@ -14,10 +14,6 @@ I'm currently exploring exciting opportunities in my career journey as a **Softw
 - 🐈‍⬛ **GitHub:** [kevinjeonghun](https://github.com/kevinjeonghun) 
 - 💼 **LinkedIn:** [kevinjeonghun](https://www.linkedin.com/in/kevinjeonghun/)
 
-## 🎓 Education
-
-- 🎓 Bachelor degree from Universitas Tarumangara
-
 ## 🎯 My Hobbies
 1. Gaming
 2. Basketball
@@ -26,4 +22,5 @@ I'm currently exploring exciting opportunities in my career journey as a **Softw
 
 ## 🔗 My Websites
 Check out my self created website below:
-- https://celebrated-figolla-9a4013.netlify.app/
+- (Week 1) https://celebrated-figolla-9a4013.netlify.app/
+- (Week 2) https://653b79b16281683bc5eb0d81--leafy-yeot-203476.netlify.app/
