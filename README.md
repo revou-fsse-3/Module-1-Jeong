@@ -22,5 +22,4 @@ I'm currently exploring exciting opportunities in my career journey as a **Softw
 
 ## 🔗 My Websites
 Check out my self created website below:
-- (Week 1) https://celebrated-figolla-9a4013.netlify.app/
-- (Week 2) https://653b79b16281683bc5eb0d81--leafy-yeot-203476.netlify.app/
+- https://deft-meerkat-f603fc.netlify.app/
